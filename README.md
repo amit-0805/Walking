@@ -17,8 +17,8 @@ This Python script allows you to insert step count data into your Google Fit acc
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone [<repository-url>](https://github.com/amit-0805/Walking.git)
+cd [<repository-directory>](https://github.com/amit-0805/Walking.git)
 ```
 
 ### 2. (Optional) Create a Virtual Environment
